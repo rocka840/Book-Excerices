@@ -1,0 +1,24 @@
+CH 15
+
+~purpose = repetision;
+
+~to put under the same name/thing;
+
+~[] <--- usually have this to show plurality;
+
+~always put a plural name, not a singular one;
+
+~indexing = choosing a specific one;
+
+~you lable them w/ numbers, tags (very important);
+
+~we index arrays starting with zero (0); !!
+
+CH 16
+
+a proporty of an item = get it with a dot (x.length) <--- it gives u how many are there;
+
+to start a loop 
+                for(i=0; i<t.length; i++); console.log(t{i});
+
+
